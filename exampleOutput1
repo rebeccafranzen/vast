@@ -1,0 +1,50 @@
+Mining Truck 0
+Total time spent mining =  3123.45 minutes
+Completed mining sessions = 17
+Avg time spent mining =  183.73 minutes
+Total time spent in Unloading Queue =  89.84 minutes
+Avg time spent in Unloading Queue =  5.28 minutes
+
+Mining Truck 1
+Total time spent mining =  3040.16 minutes
+Completed mining sessions = 19
+Avg time spent mining =  160.01 minutes
+Total time spent in Unloading Queue =  83.98 minutes
+Avg time spent in Unloading Queue =  4.67 minutes
+
+Mining Truck 2
+Total time spent mining =  3199.25 minutes
+Completed mining sessions = 16
+Avg time spent mining =  199.95 minutes
+Total time spent in Unloading Queue =  69.95 minutes
+Avg time spent in Unloading Queue =  4.37 minutes
+
+Mining Truck 3
+Total time spent mining =  2995.45 minutes
+Completed mining sessions = 18
+Avg time spent mining =  166.41 minutes
+Total time spent in Unloading Queue =  54.21 minutes
+Avg time spent in Unloading Queue =  3.01 minutes
+
+Mining Truck 4
+Total time spent mining =  3177.56 minutes
+Completed mining sessions = 15
+Avg time spent mining =  211.84 minutes
+Total time spent in Unloading Queue =  96.87 minutes
+Avg time spent in Unloading Queue =  6.46 minutes
+
+Mining Truck 5
+Total time spent mining =  2828.28 minutes
+Completed mining sessions = 18
+Avg time spent mining =  157.13 minutes
+Total time spent in Unloading Queue =  72.85 minutes
+Avg time spent in Unloading Queue =  4.05 minutes
+
+Operation Stats
+Number of Mining Trucks = 6, Number of Unloading Stations = 2
+Total time all trucks spent mining =  18364.15 minutes
+Total of completed mining sessions = 103
+Avg time each truck spent mining =  178.29 minutes
+Total time all trucks spent in unload queue =  467.71 minutes
+Total number of times trucks were queued = 102
+Avg time each truck spent in unload queue =  4.59 minutes
